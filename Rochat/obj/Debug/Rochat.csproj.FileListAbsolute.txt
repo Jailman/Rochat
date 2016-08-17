@@ -1,0 +1,11 @@
+d:\Visual Studio 2013\Projects\Rochat\Rochat\bin\Debug\Rochat.exe.config
+d:\Visual Studio 2013\Projects\Rochat\Rochat\bin\Debug\Rochat.exe
+d:\Visual Studio 2013\Projects\Rochat\Rochat\bin\Debug\Rochat.pdb
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.csprojResolveAssemblyReference.cache
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.Form1.resources
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.Properties.Resources.resources
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.csproj.GenerateResource.Cache
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.exe
+d:\Visual Studio 2013\Projects\Rochat\Rochat\obj\Debug\Rochat.pdb
+d:\Visual Studio 2013\Projects\Rochat\Rochat\bin\Debug\Newtonsoft.Json.dll
+d:\Visual Studio 2013\Projects\Rochat\Rochat\bin\Debug\Newtonsoft.Json.xml
