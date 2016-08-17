@@ -17,7 +17,7 @@ namespace Rochat
             try
             {
                 //注册码自己到网上注册去
-                String APIKEY = "c32ccaa805b6441be76bc18074f12e51";
+                String APIKEY = "apikey";
                 String _strMessage = p_strMessage;
                 String INFO = Encoding.UTF8.GetString(Encoding.UTF8.GetBytes(_strMessage));
                 String getURL = "http://www.tuling123.com/openapi/api?key=" + APIKEY + "&info=" + INFO;
